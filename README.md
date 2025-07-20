@@ -13,9 +13,9 @@
 
   </div>
 
-  <h3 align="center">Sushi Website</h3>
+  <h3 align="center">Christmas Themed Website</h3>
     <div align="center">
-     Welcome to the source code of this sushi website — refer to <a href="#snippets" ><b>code snippets</b></a> if you find it difficult to navigate or copy specific CSS sections.
+     Welcome to the source code of this Christmas Themed Website — refer to <a href="#snippets" ><b>code snippets</b></a> if you find it difficult to navigate or copy specific CSS sections.
      </div>
 
 </div>
@@ -32,7 +32,7 @@
 
 ## <a name="introduction">🤖 Introduction</a>
 
-Develop a sushi website showcasing popular food, trending sushi, and drinks using HTML and CSS with smooth subtle animations. 
+Develop a Christmas Themed Website showcasing popular food, trending sushi, and drinks using HTML and CSS with smooth subtle animations using GSAP. 
 
 <p align="center">
   <a href="https://developer-ronnie.hashnode.dev" target="_blank">
@@ -45,6 +45,7 @@ Develop a sushi website showcasing popular food, trending sushi, and drinks usin
 
 - HTML 5
 - CSS 3
+- GSAP
 
 ## <a name="features">🔋 Features</a>
 
