@@ -32,7 +32,7 @@
 
 ## <a name="introduction">🤖 Introduction</a>
 
-Develop a Christmas Themed Website showcasing popular food, trending sushi, and drinks using HTML and CSS with smooth subtle animations using GSAP. 
+Develop a Christmas Themed Website using HTML and CSS with smooth subtle animations using GSAP. 
 
 <p align="center">
   <a href="https://developer-ronnie.hashnode.dev" target="_blank">
