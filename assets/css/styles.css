@@ -258,7 +258,9 @@ img {
 
 
 /* Snow color */
-
+#embedim--snow .embedim-snow{
+  background: white;
+}
 
 /*=============== BREAKPOINTS ===============*/
 /* For small devices */
